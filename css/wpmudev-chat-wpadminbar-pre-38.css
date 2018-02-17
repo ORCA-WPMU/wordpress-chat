@@ -1,0 +1,38 @@
+/* Styles related to the WP admin bar */
+#wpadminbar li#wp-admin-bar-wpmudev-chat-container .wpmudev-chat-ab-icon {
+    margin-top: 6px;
+}
+
+#wpadminbar li#wp-admin-bar-wpmudev-chat-container div.ab-sub-wrapper span.wpmudev-chat-ab-label {
+	text-shadow: none !important;
+	color: #21759B;
+}
+
+#wpadminbar li#wp-admin-bar-wpmudev-chat-container:hover span.wpmudev-chat-user-status-current span.wpmudev-chat-ab-label {
+	color: #21759B;
+}
+
+#wpadminbar li#wp-admin-bar-wpmudev-chat-container div.ab-sub-wrapper ul.ab-submenu li.hover:hover div.ab-item,
+#wpadminbar li#wp-admin-bar-wpmudev-chat-container div.ab-sub-wrapper ul.ab-submenu li.hover:hover div.ab-item span.wpmudev-chat-ab-label {
+	color: #21759B;
+}
+
+#wpadminbar li#wp-admin-bar-wpmudev-chat-container div.ab-sub-wrapper ul.ab-submenu li.hover:hover div.ab-sub-wrapper div.ab-item span.wpmudev-chat-ab-label {
+	color: #21759B;
+}
+
+#wpadminbar li#wp-admin-bar-wpmudev-chat-container div.ab-sub-wrapper ul.ab-submenu li.hover:hover div.ab-sub-wrapper div.ab-item span.wpmudev-chat-ab-label {
+	color: #21759B;
+}
+
+#wpadminbar li#wp-admin-bar-wpmudev-chat-container div.ab-sub-wrapper ul.ab-submenu li.hover div.ab-sub-wrapper ul.ab-submenu li:hover div.ab-item span.wpmudev-chat-ab-label {
+	color: #21759B;
+}
+
+#wpadminbar li#wp-admin-bar-wpmudev-chat-container:hover span.wpmudev-chat-ab-label {
+	color: #21759B;
+	text-shadow: none;
+}
+
+
+/* 403900-1511248464-ai */
